@@ -160,3 +160,6 @@ website2022.Rproj
 
 # pycharm
 .idea/
+**/*.tif
+**/*.csv
+**/*.png
